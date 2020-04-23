@@ -7,4 +7,4 @@ For this I gathered all current Apple devices (~ 2011 to 2020).
 The code is just a very simple Swift file. It contains a huge `switch` statement with all identifiers. 
 
 ## License 
-Just use it. No attribution necessary 
+Basic MIT License
